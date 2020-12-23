@@ -1,0 +1,47 @@
+#main {
+  background: #f5fffa;
+  font-family: "Poppins", sans-serif;
+}
+
+#title {
+  margin-top: 40px;
+  text-align: center;
+}
+
+#img-div {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#image {
+  margin-top: 20px;
+  max-width: 100%;
+  margin-bottom: 20px;
+  align-self: center;
+  object-fit: cover;
+}
+
+#img-caption {
+  align-self: center;
+}
+
+#tribute-info {
+  text-align: center;
+}
+
+.quotes {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  align-items: center;
+  flex-direction: column;
+}
+
+li {
+  margin-top: 20px;
+}
+
+.read-more {
+  text-align: center;
+}
